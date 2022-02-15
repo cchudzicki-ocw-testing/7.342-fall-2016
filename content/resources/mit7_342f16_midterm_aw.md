@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'The RNA Revolution: Midterm Assignment '
-type: OCWFile
 uid: e541b468-3dcf-fa5a-c0e6-d5fcb8545a06
 ---

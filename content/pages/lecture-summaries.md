@@ -185,7 +185,7 @@ Harnessing an RNA-guided immune system to treat human disease
 Oral Presentations and Course Evaluations
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "week13" >}}{{< /anchor >}}Refer to the [Assignments]({{< baseurl >}}/pages/assignments) section regarding the requirements for the oral presentations. In addition, we will discuss the course in general, and course evaluations will be completed as a way for the students to provide feedback about their experience in the course.
+{{< anchor "week13" >}}{{< /anchor >}}Refer to the {{< resource_link 69fff540-7cca-af54-a432-503f05b7328f "Assignments" >}} section regarding the requirements for the oral presentations. In addition, we will discuss the course in general, and course evaluations will be completed as a way for the students to provide feedback about their experience in the course.
 {{< tdclose >}}
 
 {{< trclose >}}

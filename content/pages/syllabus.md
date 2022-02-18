@@ -51,7 +51,7 @@ The main objective for this course is to open up a world of groundbreaking scien
 *   Appreciate the historical progression of the RNA field, including current state-of-the-art research topics.
 *   Understand how basic scientific discoveries are translated into novel disease therapies.
 
-To aid in accomplishing these objectives, students will be required to complete one written assignment and one oral assignment as described in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+To aid in accomplishing these objectives, students will be required to complete one written assignment and one oral assignment as described in the {{< resource_link 69fff540-7cca-af54-a432-503f05b7328f "Assignments" >}} section.
 
 Grading
 -------

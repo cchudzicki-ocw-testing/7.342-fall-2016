@@ -32,7 +32,7 @@ READINGS
 
 Introduction and Course Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week1)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week1" >}}
 
 
 {{< tdclose >}}
@@ -50,7 +50,7 @@ Introduction and Course Overview
 
 The discovery of miRNAs as gene regulators
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week2)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week2" >}}
 
 
 {{< tdclose >}}
@@ -74,7 +74,7 @@ Reinhart, B. J., F. J. Slack, et al. "[The 21-nucleotide Let-7 RNA Regulates Dev
 
 Roles for miRNAs beyond gene downregulation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week3)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week3" >}}
 
 
 {{< tdclose >}}
@@ -98,7 +98,7 @@ Schmiedel, J. M., S. L. Klemm, et al. "[Gene Expression MicroRNA Control of Prot
 
 From siRNA discovery to therapeutic agent
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week4)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week4" >}}
 
 
 {{< tdclose >}}
@@ -122,7 +122,7 @@ Querbes, W., R. L. Bogorad, et al. "[Treatment of Erythropoietin Deficiency in M
 
 Circular RNAs and the competing endogenous RNA hypothesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week5)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week5" >}}
 
 
 {{< tdclose >}}
@@ -146,7 +146,7 @@ Poliseno, L., L. Salmena, et al. "[A Coding-independent Function of Gene and Pse
 
 Role of lncRNAs in X chromosome inactivation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week6)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week6" >}}
 
 
 {{< tdclose >}}
@@ -170,7 +170,7 @@ Zhao, J., B. K. Sun, et al. "[Polycomb Proteins Targeted by a Short Repeat RNA t
 
 Regulation of genomic imprinting by long non-coding RNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week7)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week7" >}}
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ No Readings
 
 Catalytic functions of RNA and the RNA-world hypothesis: Ribozymes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week9)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week9" >}}
 
 
 {{< tdclose >}}
@@ -234,7 +234,7 @@ Sczepanski, J. T., and G. F. Joyce. "[A Cross-chiral RNA Polymerase Ribozyme](ht
 
 It's all about the ribosome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week10)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week10" >}}
 
 
 {{< tdclose >}}
@@ -258,7 +258,7 @@ Kiss-László, Z., Y. Henry, et al. "[Site-specific Ribose Methylation of Prerib
 
 Chemical modifications of mature RNA molecules
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week11)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week11" >}}
 
 
 {{< tdclose >}}
@@ -282,7 +282,7 @@ Sharma, P. M., M. Bowman, et al. "[RNA Editing in the Wilms' Tumor Susceptibilit
 
 Harnessing an RNA-guided immune system to treat human disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week12)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week12" >}}
 
 
 {{< tdclose >}}
@@ -310,7 +310,7 @@ iBioMagazine. "[Jennifer Doudna: Genome Engineering with CRISPR-Cas9](https://ww
 
 Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week13)
+{{< resource_link 6a598894-7add-dfce-148d-4eccf9062f5f "See the Lecture Summary" "#week13" >}}
 
 
 {{< tdclose >}}

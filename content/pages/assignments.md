@@ -12,7 +12,7 @@ Written Assignment (Due Week 7)
 
 There will be one written assignment for the course. The purpose of the assignment is to practice designing experiments and determining research directions. In Week 5, students will be provided one figure representing the results of a single experiment performed using methods we will have discussed in previous classes. Based on the data, students must design and propose two additional follow-up experiments. The proposal should be two to three pages, double spaced, Times New Roman, 11 point font, and 1 inch page margins.
 
-{{< resource_link e541b468-3dcf-fa5a-c0e6-d5fcb8545a06 "Midterm Written Assignment (PDF)" >}}
+{{% resource_link e541b468-3dcf-fa5a-c0e6-d5fcb8545a06 "Midterm Written Assignment (PDF)" %}}
 
 Oral Assignment (Due Week 13)
 -----------------------------
